@@ -54,3 +54,4 @@ echo "Releasing container on Heroku..."
 heroku container:release $SERVICE_NAME --app $HEROKU_APP_NAME
 
 echo "Deployment completed successfully."
+
