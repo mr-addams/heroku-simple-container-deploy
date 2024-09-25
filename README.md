@@ -17,7 +17,7 @@ Simple Bash script for Build and Deploy Docker container to Heroku
   [Setup Authentication](https://devcenter.heroku.com/articles/authentication)  
 
 
-## Usage  
+## Usage:  
 
 - Define variables in script  
 
