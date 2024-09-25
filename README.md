@@ -15,7 +15,6 @@ Simple Bash script for Build and Deploy Docker container to Heroku
 
 
 - Heroku CLI
-
-  [Installation](https://devcenter.heroku.com/articles/heroku-cli)
+  [Installation](https://devcenter.heroku.com/articles/heroku-cli)  
   [Setup Authentication](https://devcenter.heroku.com/articles/authentication)
 
