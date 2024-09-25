@@ -1,20 +1,20 @@
-# heroku-simple-container-deploy
-Simple Bash script for Build and Deploy Docker container to Heroku
+# heroku-simple-container-deploy  
+Simple Bash script for Build and Deploy Docker container to Heroku  
 
-## Features
+## Features  
 
-- Helps beginners to quick build and deploy container to Heroku App.
-
-
-## Requirements: 
-
-- git
+- Helps beginners to quick build and deploy container to Heroku App.  
 
 
-- docker
+## Requirements:  
+
+- git  
 
 
-- Heroku CLI
+- docker  
+
+
+- Heroku CLI  
   [Installation](https://devcenter.heroku.com/articles/heroku-cli)  
-  [Setup Authentication](https://devcenter.heroku.com/articles/authentication)
+  [Setup Authentication](https://devcenter.heroku.com/articles/authentication)  
 
