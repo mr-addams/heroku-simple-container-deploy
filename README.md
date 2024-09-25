@@ -8,11 +8,14 @@ Simple Bash script for Build and Deploy Docker container to Heroku
 
 ## Requirements: 
 
-- 1. git
+- git
 
 
-- 2. docker
+- docker
 
 
-- 3. Heroku CLI
-    
+- Heroku CLI
+
+  [Installation](https://devcenter.heroku.com/articles/heroku-cli)
+  [Setup Authentication](https://devcenter.heroku.com/articles/authentication)
+
